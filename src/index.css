@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.h-\[1\.5em\] {
+  height: 2.5em;
+}
+.z-index-1400 {
+  z-index: 1400;
+}
+#default-number {
+  background-color: #1f2937;
+  color: #fff;
+}
+.border-hover:hover {
+  border: 1px solid #f472b6;
+}
+.justify-content-center {
+  justify-content: center;
+}
